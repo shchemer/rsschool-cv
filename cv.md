@@ -9,7 +9,7 @@
 
 ## About me
 
-
+Before i met with Frontend Development i was interested in design sphere. But in college i got to know Frontend Development and saw the possibilities. The biggest site i made was a graduation project. In that project i made and found out a lot of new things for me. I'm still learning Frontend myself. I spend almost all my free time to it. I am hard-working and purposeful. I like it so much and i want to give people functionality that they can use.
 
 ## Skills
 
