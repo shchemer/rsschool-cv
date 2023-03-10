@@ -1,1 +1,1 @@
-# rsschool-cv
+https://shchemer.github.io/rsschool-cv/
